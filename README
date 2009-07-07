@@ -1,0 +1,26 @@
+CGI-Stateless version 1.0.0
+
+Make CGI.pm stateless for use in FastCGI-like persistent environment.
+
+
+INSTALLATION
+
+To install this module, run the following commands:
+
+	perl Makefile.PL
+	make
+	make test
+	make install
+
+
+DEPENDENCIES
+
+ CGI
+
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2009, Alex Efros
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself.
