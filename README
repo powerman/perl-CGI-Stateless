@@ -1,4 +1,4 @@
-CGI-Stateless version 1.0.0
+CGI-Stateless version 1.0.1
 
 Make CGI.pm stateless for use in FastCGI-like persistent environment.
 
@@ -20,7 +20,7 @@ DEPENDENCIES
 
 COPYRIGHT AND LICENCE
 
-Copyright (C) 2009, Alex Efros
+Copyright (C) 2009,2012 Alex Efros
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself.
