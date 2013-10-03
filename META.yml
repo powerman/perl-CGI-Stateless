@@ -4,10 +4,10 @@ author:
   - 'Alex Efros  C<< <powerman-asdf@ya.ru> >>'
   - 'Alex Efros <powerman-asdf@ya.ru>'
 build_requires:
-  ExtUtils::MakeMaker: 6.36
+  ExtUtils::MakeMaker: 6.59
   Test::More: 0
 configure_requires:
-  ExtUtils::MakeMaker: 6.36
+  ExtUtils::MakeMaker: 6.59
 distribution_type: module
 dynamic_config: 1
 generated_by: 'Module::Install version 1.06'
@@ -27,7 +27,8 @@ recommends:
   Test::Pod: 1.22
   Test::Pod::Coverage: 1.08
 requires:
+  perl: 5.8.8
   version: 0
 resources:
   license: http://dev.perl.org/licenses/
-version: 1.000001
+version: 1.000002

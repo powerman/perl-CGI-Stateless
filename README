@@ -1,4 +1,4 @@
-CGI-Stateless version 1.0.1
+CGI-Stateless version 1.0.2
 
 Make CGI.pm stateless for use in FastCGI-like persistent environment.
 

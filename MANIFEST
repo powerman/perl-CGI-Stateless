@@ -14,8 +14,6 @@ lib/CGI/Stateless.pm
 Makefile.PL
 MANIFEST
 META.yml
-MYMETA.json
-MYMETA.yml
 README
 t/.perlcriticrc
 t/00.load.t

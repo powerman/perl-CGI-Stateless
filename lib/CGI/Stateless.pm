@@ -4,7 +4,7 @@ use warnings;
 use strict;
 use Carp;
 
-use version; our $VERSION = qv('1.0.1');    # update POD & Changes & README
+use version; our $VERSION = qv('1.0.2');    # update POD & Changes & README
 
 # update DEPENDENCIES in POD & Makefile.PL & README
 use base 'CGI';
@@ -25,7 +25,7 @@ CGI::Stateless - Make CGI.pm stateless for use in persistent environment
 
 =head1 VERSION
 
-This document describes CGI::Stateless version 1.0.1
+This document describes CGI::Stateless version 1.0.2
 
 
 =head1 SYNOPSIS

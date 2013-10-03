@@ -5,6 +5,7 @@ all_from 'lib/CGI/Stateless.pm';
 author   'Alex Efros <powerman-asdf@ya.ru>';
 license  'perl';
 
+perl_version    '5.8.8';
 requires        'version';
 
 test_requires   'Test::More';
