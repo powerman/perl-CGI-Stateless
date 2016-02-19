@@ -39,6 +39,8 @@
       },
       "runtime" : {
          "requires" : {
+            "CGI" : "0",
+            "parent" : "0",
             "perl" : "5.010001"
          }
       },

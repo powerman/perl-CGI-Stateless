@@ -1,5 +1,8 @@
 requires 'perl', '5.010001';
 
+requires 'CGI';
+requires 'parent';
+
 on configure => sub {
     requires 'Module::Build::Tiny', '0.034';
 };

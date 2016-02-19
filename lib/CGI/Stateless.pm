@@ -7,7 +7,7 @@ use Carp;
 
 our $VERSION = 'v1.0.2';
 
-use base 'CGI';
+use parent 'CGI';
 
 
 # override the initialization behavior so that
