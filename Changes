@@ -1,6 +1,8 @@
 Revision history for CGI-Stateless
 
 {{$NEXT}}
+
+v2.0.0  2016-02-19 12:08:29 EET
 	- Switch to Dist::Milla.
 
 1.0.2   2013-10-03 16:25:09 EEST

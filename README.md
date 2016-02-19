@@ -7,7 +7,7 @@ CGI::Stateless - Make CGI.pm stateless for use in persistent environment
 
 # VERSION
 
-This document describes CGI::Stateless version v1.0.2
+This document describes CGI::Stateless version v2.0.0
 
 # SYNOPSIS
 
