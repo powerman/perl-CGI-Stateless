@@ -1,0 +1,8 @@
+/CGI-Stateless-*
+/.build
+/_build*
+/Build
+MYMETA.*
+!META.json
+/.prove
+/tmp/
