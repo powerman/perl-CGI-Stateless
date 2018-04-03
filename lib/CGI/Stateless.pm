@@ -5,7 +5,7 @@ use strict;
 use utf8;
 use Carp;
 
-our $VERSION = 'v2.0.0';
+our $VERSION = 'v2.0.1';
 
 use parent 'CGI';
 
@@ -27,7 +27,7 @@ CGI::Stateless - Make CGI.pm stateless for use in persistent environment
 
 =head1 VERSION
 
-This document describes CGI::Stateless version v2.0.0
+This document describes CGI::Stateless version v2.0.1
 
 
 =head1 SYNOPSIS
